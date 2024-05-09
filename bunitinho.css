@@ -48,11 +48,16 @@ align-items: center;
     padding: 24px 0;
 }
 .fotinha{
-    width: 35%;
+    width: 5%;
 }
 .Anime{
     width: 50%;
 }
 .icone{
-    width: 15%;
+    width: 5%;
+    padding: 4px 8px ;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
